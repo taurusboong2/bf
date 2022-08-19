@@ -1,5 +1,2 @@
-const a: number = 1;
-
-console.log(a);
-
-export default a;
+export * from './lib/add';
+export * from './lib/each';
