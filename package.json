@@ -1,9 +1,10 @@
 {
-  "name": "bf",
+  "name": "@taurusboong2/bf",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "parcel build src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +17,15 @@
   "bugs": {
     "url": "https://github.com/taurusboong2/bf/issues"
   },
-  "homepage": "https://github.com/taurusboong2/bf#readme"
+  "homepage": "https://github.com/taurusboong2/bf#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.33.0",
+    "@typescript-eslint/parser": "^5.33.0",
+    "eslint": "^8.21.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "parcel-bundler": "^1.12.5",
+    "prettier": "^2.7.1",
+    "typescript": "^4.7.4"
+  }
 }
