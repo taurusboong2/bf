@@ -5,5 +5,6 @@ export * from './lib/filter';
 export * from './lib/reduce';
 export * from './lib/includes';
 export * from './lib/head';
+export * from './lib/chunk';
 
 export * from './types/iterator';
