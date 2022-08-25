@@ -7,5 +7,6 @@ export * from './lib/includes';
 export * from './lib/head';
 export * from './lib/chunk';
 export * from './lib/compact';
+export * from './lib/concat';
 
 export * from './types/iterator';
