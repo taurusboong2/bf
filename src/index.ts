@@ -8,5 +8,6 @@ export * from './lib/head';
 export * from './lib/chunk';
 export * from './lib/compact';
 export * from './lib/concat';
+export * from './lib/drop';
 
 export * from './types/iterator';
