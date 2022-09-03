@@ -10,5 +10,6 @@ export * from './lib/compact';
 export * from './lib/concat';
 export * from './lib/drop';
 export * from './lib/dropRight';
+export * from './lib/fill';
 
 export * from './types/iterator';
