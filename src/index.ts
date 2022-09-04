@@ -11,5 +11,6 @@ export * from './lib/concat';
 export * from './lib/drop';
 export * from './lib/dropRight';
 export * from './lib/fill';
+export * from './lib/useState';
 
 export * from './types/iterator';
