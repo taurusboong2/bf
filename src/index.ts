@@ -12,5 +12,6 @@ export * from './lib/drop';
 export * from './lib/dropRight';
 export * from './lib/fill';
 export * from './lib/useState';
+export * from './lib/average';
 
 export * from './types/iterator';
