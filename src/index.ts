@@ -15,5 +15,6 @@ export * from './lib/useState';
 export * from './lib/average';
 export * from './lib/fromPairs';
 export * from './lib/intersection';
+export * from './lib/last';
 
 export * from './types/iterator';
