@@ -17,5 +17,6 @@ export * from './lib/fromPairs';
 export * from './lib/intersection';
 export * from './lib/last';
 export * from './lib/range';
+export * from './lib/join';
 
 export * from './types/iterator';
