@@ -20,5 +20,6 @@ export * from './lib/range';
 export * from './lib/join';
 export * from './lib/pull';
 export * from './lib/deleteDuplicate';
+export * from './lib/pullAt';
 
 export * from './types/iterator';
