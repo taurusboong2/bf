@@ -21,5 +21,6 @@ export * from './lib/join';
 export * from './lib/pull';
 export * from './lib/deleteDuplicate';
 export * from './lib/pullAt';
+export * from './lib/tail';
 
 export * from './types/iterator';
