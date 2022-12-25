@@ -1,4 +1,4 @@
-import { head } from '../lib/head';
+import { head } from '../';
 
 describe('head', () => {
   it('gets the first element of array', () => {

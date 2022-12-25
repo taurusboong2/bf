@@ -1,4 +1,4 @@
-import { last } from '../lib/last';
+import { last } from '../';
 
 describe('last', () => {
   it('returns the last element of an array.', () => {

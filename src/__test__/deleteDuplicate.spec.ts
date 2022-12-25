@@ -1,4 +1,4 @@
-import { deleteDuplicate } from '../lib/deleteDuplicate';
+import { deleteDuplicate } from '../';
 
 describe('deleteDuplicate', () => {
   it('removes duplicate values in an array', () => {

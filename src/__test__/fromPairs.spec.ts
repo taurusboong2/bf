@@ -1,4 +1,4 @@
-import { fromPairs } from '../lib/fromPairs';
+import { fromPairs } from '../';
 
 describe('fromPairs', () => {
   it('', () => {

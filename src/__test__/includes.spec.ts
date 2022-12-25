@@ -1,4 +1,4 @@
-import { includes } from '../lib/includes';
+import { includes } from '../';
 
 describe('includes', () => {
   it('should check the given value is included', () => {

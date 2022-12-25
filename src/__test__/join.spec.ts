@@ -1,4 +1,4 @@
-import { join } from '../lib/join';
+import { join } from '../';
 
 describe('join', () => {
   it('returns an array converted to a string. medium is the second argument', () => {

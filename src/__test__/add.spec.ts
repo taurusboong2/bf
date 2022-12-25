@@ -1,4 +1,4 @@
-import { add } from '../lib/add';
+import { add } from '../';
 
 describe('add', () => {
   it('should add numbers', () => {

@@ -1,4 +1,4 @@
-import { tail } from '../lib/tail';
+import { tail } from '../';
 
 describe('tail', () => {
   it('gets all but the first element of array.', () => {

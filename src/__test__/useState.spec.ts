@@ -1,4 +1,4 @@
-import { useState } from '../lib/useState';
+import { useState } from '../';
 
 const [count, setCount] = useState(0);
 

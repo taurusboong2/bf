@@ -1,4 +1,4 @@
-import { dropRight } from '../lib/dropRight';
+import { dropRight } from '../';
 
 describe('dropRight', () => {
   it('creates a slice of array with n elements dropped from the end.', () => {

@@ -1,4 +1,4 @@
-import { pullAt } from '../lib/pullAt';
+import { pullAt } from '../';
 
 describe('pullAt', () => {
   it('removes elements from array corresponding to indexes and returns an array of removed elements', () => {

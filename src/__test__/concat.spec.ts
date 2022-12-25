@@ -1,4 +1,4 @@
-import { concat } from '../lib/concat';
+import { concat } from '../';
 
 describe('concat', () => {
   it('creates a new array concatenating array with any additional arrays and/or values.', () => {

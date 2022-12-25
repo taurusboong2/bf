@@ -1,4 +1,4 @@
-import { drop } from '../lib/drop';
+import { drop } from '../';
 
 describe('drop', () => {
   it('creates a slice of array with n elements dropped from the beginning.', () => {

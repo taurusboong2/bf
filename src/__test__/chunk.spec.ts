@@ -1,4 +1,4 @@
-import { chunk } from '../lib/chunk';
+import { chunk } from '../';
 
 describe('chunk', () => {
   it('creates an array of elements split into groups the length of second params', () => {

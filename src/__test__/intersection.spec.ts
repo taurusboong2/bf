@@ -1,4 +1,4 @@
-import { intersection } from '../lib/intersection';
+import { intersection } from '../';
 
 describe('intersection', () => {
   it('', () => {

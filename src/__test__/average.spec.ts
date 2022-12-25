@@ -1,4 +1,4 @@
-import { average } from '../lib/average';
+import { average } from '../';
 
 describe('average', () => {
   it('returns the average of an array', () => {

@@ -1,4 +1,4 @@
-import { initial } from '../lib/initial';
+import { initial } from '../';
 
 describe('initial', () => {
   it('gets all but the last element of array.', () => {

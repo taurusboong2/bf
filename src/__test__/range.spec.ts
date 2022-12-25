@@ -1,4 +1,4 @@
-import { range } from '../lib/range';
+import { range } from '../';
 
 describe('range', () => {
   it('creates an array containing the values ​​up to the argument passed in.', () => {

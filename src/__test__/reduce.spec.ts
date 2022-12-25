@@ -1,4 +1,4 @@
-import { reduce } from '../lib/reduce';
+import { reduce } from '../';
 
 describe('reduce', () => {
   it('should reduce iterable with accumulator', () => {

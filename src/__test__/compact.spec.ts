@@ -1,4 +1,4 @@
-import { compact } from '../lib/compact';
+import { compact } from '../';
 
 describe('compact', () => {
   it('creates an array with all falsey values removed.', () => {

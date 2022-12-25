@@ -1,4 +1,4 @@
-import { fill } from '../lib/fill';
+import { fill } from '../';
 
 describe('fill', () => {
   it('fills elements of array with value from start up to, but not including, end', () => {

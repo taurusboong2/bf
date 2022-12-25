@@ -1,4 +1,4 @@
-import { pull } from '../lib/pull';
+import { pull } from '../';
 
 describe('pull', () => {
   it('removes all given values from array using SameValueZero for equality comparisons.', () => {
