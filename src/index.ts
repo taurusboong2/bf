@@ -26,5 +26,6 @@ export * from './lib/initial';
 export * from './lib/reorder';
 export * from './lib/numberWithComma';
 export * from './lib/createArrayNumber';
+export * from './lib/shuffle';
 
 export * from './types/iterator';
